@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olexandr. Programmer & Design engineer.
-- 👀 I’m interested in C#, WindowsForms, WPF, ASP.Net.
-- 🌱 I’m currently learning/plan learn: ASP.Net, Net Core.
-- 💞️ I’m looking to collaborate on projects where exists: any C# .Net technologies or any CAD software as: SolidWorks, Inventor, Kompas, NanoCad etc..
+- 👀 I’m interested in C#, .Net, WindowsForms, WPF, SQL, PHP, JavaScript
+- 🌱 I’m currently learning/plan learn: game development.
+- 💞️ I’m looking to collaborate on projects with: C#, PHP, JavaScript, SQL or(and) CAD software (SolidWorks, Inventor, Kompas, NanoCad etc..) or(and) game development
 - 📫 How to reach me: tsfp.space@gmail.com
 
 <!---
